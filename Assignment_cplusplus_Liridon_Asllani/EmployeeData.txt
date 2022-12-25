@@ -1,0 +1,3 @@
+John Smith,hams123,1234,HumanResource
+kim joe,kim123,2345,Management
+Liridon Asllani,Liridon786,8996,GeneralEmployee
